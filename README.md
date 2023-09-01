@@ -4,7 +4,6 @@ Welcome to Deal or No Deal Game. Created in C.
 To play the game, you can download the .exe file.
 
 
-=======================================
        Keyboard as the joystick.
 =======================================
 
