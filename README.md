@@ -5,6 +5,7 @@ To play the game, you can download the .exe file.
 
 =======================================
        Keyboard as the joystick.
+=======================================
 
 To add coin or credit: Q.
 
